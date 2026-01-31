@@ -6,11 +6,26 @@
 
 <p align="center">
   <a href="https://zkm.de"><img src="https://img.shields.io/badge/ZKM-Karlsruhe-blue" alt="ZKM"></a>
+  <a href="https://publiccode.eu"><img src="https://img.shields.io/badge/Public%20Money-Public%20Code-blue" alt="Public Money Public Code"></a>
 </p>
 
 <p align="center">
   Open source tools and research from <a href="https://zkm.de">ZKM | Center for Art and Media Karlsruhe</a>
 </p>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/ZKM_Center_for_Art_and_Media_Karlsruhe">Wikipedia</a> ·
+  <a href="https://www.instagram.com/zkmkarlsruhe/">Instagram</a> ·
+  <a href="https://www.youtube.com/user/ZKMkarlsruhe">YouTube</a> ·
+  <a href="https://www.linkedin.com/company/zkm-zentrum-f%C3%BCr-kunst-und-medien">LinkedIn</a> ·
+  <a href="https://www.facebook.com/zkmkarlsruhe">Facebook</a>
+</p>
+
+---
+
+The **ZKM | Center for Art and Media** is a cultural institution founded in 1989 in Karlsruhe, Germany — one of the world's largest centers for media art, combining museum, research institute, and production facility.
+
+ZKM is publicly funded. We believe in **Public Money, Public Code** — software developed with public funds should be publicly available.
 
 ---
 
