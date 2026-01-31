@@ -92,6 +92,31 @@ ZKM is publicly funded. We believe in **Public Money, Public Code** — software
 
 ---
 
+## Team
+
+The people behind ZKM's open source projects:
+
+| Name | Role | Links |
+|------|------|-------|
+| **Dan Wilcox** | Artist & Researcher | [ZKM](https://zkm.de/en/person/dan-wilcox) · [GitHub](https://github.com/danomatika) · [git.zkm.de](https://git.zkm.de/danomatika) |
+| **Bernd Lintermann** | Artist & Head of Visual Arts/Development | [ZKM](https://zkm.de/en/person/bernd-lintermann) · [GitHub](https://github.com/derlinter) |
+| **Marc Schütze** | Software Developer | [ZKM](https://zkm.de/en/person/marc-schuetze) · [GitHub](https://github.com/scharc) · [git.zkm.de](https://git.zkm.de/mschuetze) |
+| **Andreas Kohlbecker** | Software Developer | [ZKM](https://zkm.de/en/person/andreas-kohlbecker) · [GitHub](https://github.com/akohlbecker) |
+| **Hugo Dünger** | Developer | [GitHub](https://github.com/huugood) |
+| **Yasha Jain** | Software Developer | [ZKM](https://zkm.de/en/person/yasha-jain) · [git.zkm.de](https://git.zkm.de/yasha.jain) |
+| **Daniel Heiss** | Software Developer | [ZKM](https://zkm.de/en/person/daniel-heiss) · [git.zkm.de](https://git.zkm.de/heiss) |
+
+### Alumni
+
+With thanks to former team members who contributed to these projects:
+
+- Paul Bethge ([bytosaur](https://github.com/bytosaur))
+- Christian Lölkes ([loelkes](https://github.com/loelkes))
+- Chikashi Miyama ([chikashimiyama](https://github.com/chikashimiyama))
+- Anika Wilcox ([anika.wilcox](https://git.zkm.de/anika.wilcox))
+
+---
+
 <p align="center">
   <a href="https://zkm.de">zkm.de</a>
 </p>
