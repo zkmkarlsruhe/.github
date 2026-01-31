@@ -96,15 +96,15 @@ ZKM is publicly funded. We believe in **Public Money, Public Code** — software
 
 The people behind ZKM's open source projects:
 
-| Name | Role | Links |
-|------|------|-------|
-| **Dan Wilcox** | Artist & Researcher | [ZKM](https://zkm.de/en/person/dan-wilcox) · [GitHub](https://github.com/danomatika) · [git.zkm.de](https://git.zkm.de/danomatika) |
-| **Bernd Lintermann** | Artist & Head of Visual Arts/Development | [ZKM](https://zkm.de/en/person/bernd-lintermann) · [GitHub](https://github.com/derlinter) |
-| **Marc Schütze** | Software Developer | [ZKM](https://zkm.de/en/person/marc-schuetze) · [GitHub](https://github.com/scharc) · [git.zkm.de](https://git.zkm.de/mschuetze) |
-| **Andreas Kohlbecker** | Software Developer | [ZKM](https://zkm.de/en/person/andreas-kohlbecker) · [GitHub](https://github.com/akohlbecker) |
-| **Hugo Dünger** | Developer | [GitHub](https://github.com/huugood) |
-| **Yasha Jain** | Software Developer | [ZKM](https://zkm.de/en/person/yasha-jain) · [git.zkm.de](https://git.zkm.de/yasha.jain) |
-| **Daniel Heiss** | Software Developer | [ZKM](https://zkm.de/en/person/daniel-heiss) · [GitHub](https://github.com/burnzzz) · [git.zkm.de](https://git.zkm.de/heiss) |
+| | Name | Role | Links |
+|---|------|------|-------|
+| <img src="https://github.com/danomatika.png" width="50"> | **Dan Wilcox** | Artist & Researcher | [ZKM](https://zkm.de/en/person/dan-wilcox) · [GitHub](https://github.com/danomatika) · [git.zkm.de](https://git.zkm.de/danomatika) |
+| <img src="https://github.com/derlinter.png" width="50"> | **Bernd Lintermann** | Artist & Head of Visual Arts/Development | [ZKM](https://zkm.de/en/person/bernd-lintermann) · [GitHub](https://github.com/derlinter) |
+| <img src="https://github.com/scharc.png" width="50"> | **Marc Schütze** | Software Developer | [ZKM](https://zkm.de/en/person/marc-schuetze) · [GitHub](https://github.com/scharc) · [git.zkm.de](https://git.zkm.de/mschuetze) |
+| <img src="https://github.com/akohlbecker.png" width="50"> | **Andreas Kohlbecker** | Software Developer | [ZKM](https://zkm.de/en/person/andreas-kohlbecker) · [GitHub](https://github.com/akohlbecker) |
+| <img src="https://github.com/huugood.png" width="50"> | **Hugo Dünger** | Developer | [GitHub](https://github.com/huugood) |
+| <img src="https://git.zkm.de/uploads/-/system/user/avatar/49/avatar.png" width="50"> | **Yasha Jain** | Software Developer | [ZKM](https://zkm.de/en/person/yasha-jain) · [git.zkm.de](https://git.zkm.de/yasha.jain) |
+| <img src="https://github.com/burnzzz.png" width="50"> | **Daniel Heiss** | Software Developer | [ZKM](https://zkm.de/en/person/daniel-heiss) · [GitHub](https://github.com/burnzzz) · [git.zkm.de](https://git.zkm.de/heiss) |
 
 ### Alumni
 
