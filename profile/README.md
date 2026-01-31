@@ -104,7 +104,7 @@ The people behind ZKM's open source projects:
 | **Andreas Kohlbecker** | Software Developer | [ZKM](https://zkm.de/en/person/andreas-kohlbecker) · [GitHub](https://github.com/akohlbecker) |
 | **Hugo Dünger** | Developer | [GitHub](https://github.com/huugood) |
 | **Yasha Jain** | Software Developer | [ZKM](https://zkm.de/en/person/yasha-jain) · [git.zkm.de](https://git.zkm.de/yasha.jain) |
-| **Daniel Heiss** | Software Developer | [ZKM](https://zkm.de/en/person/daniel-heiss) · [git.zkm.de](https://git.zkm.de/heiss) |
+| **Daniel Heiss** | Software Developer | [ZKM](https://zkm.de/en/person/daniel-heiss) · [GitHub](https://github.com/burnzzz) · [git.zkm.de](https://git.zkm.de/heiss) |
 
 ### Alumni
 
