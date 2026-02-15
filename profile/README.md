@@ -37,34 +37,34 @@ ZKM is publicly funded. We believe in **Public Money, Public Code** — software
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**ofxTensorFlow2**](https://github.com/zkmkarlsruhe/ofxTensorFlow2) | 119 | TensorFlow 2 wrapper for openFrameworks |
-| [**language-identification**](https://github.com/zkmkarlsruhe/language-identification) | 41 | Spoken language detection using deep learning |
-| [**YoloOSC**](https://github.com/zkmkarlsruhe/YoloOSC) | 22 | Real-time YOLO object detection with OSC output |
-| [**Styler**](https://github.com/zkmkarlsruhe/Styler) | 6 | Neural style transfer for images, video, and camera |
 | [**HandTracker**](https://github.com/zkmkarlsruhe/HandTracker) | 6 | Hand tracking using ofxTensorFlow2 |
+| [**language-identification**](https://github.com/zkmkarlsruhe/language-identification) | 41 | Spoken language detection using deep learning |
 | [**LanguageIdentifier**](https://github.com/zkmkarlsruhe/LanguageIdentifier) | 1 | Language identification app (openFrameworks) |
+| [**ofxTensorFlow2**](https://github.com/zkmkarlsruhe/ofxTensorFlow2) | 119 | TensorFlow 2 wrapper for openFrameworks |
+| [**Styler**](https://github.com/zkmkarlsruhe/Styler) | 6 | Neural style transfer for images, video, and camera |
+| [**YoloOSC**](https://github.com/zkmkarlsruhe/YoloOSC) | 22 | Real-time YOLO object detection with OSC output |
 
 ## Exhibition Infrastructure
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [**baton**](https://github.com/zkmkarlsruhe/baton) | 4 | UDP/WebSocket message relay |
+| [**exhibition-vm-controller**](https://github.com/zkmkarlsruhe/exhibition-vm-controller) | - | VM management for digital art conservation |
 | [**filterdns**](https://github.com/zkmkarlsruhe/filterdns) | - | Self-hosted DNS filtering with per-profile config |
 | [**filterdns-client**](https://github.com/zkmkarlsruhe/filterdns-client) | - | Desktop client for FilterDNS (Linux/macOS/Windows) |
-| [**exhibition-vm-controller**](https://github.com/zkmkarlsruhe/exhibition-vm-controller) | - | VM management for digital art conservation |
 | [**museum-label**](https://github.com/zkmkarlsruhe/museum-label) | 2 | Auto-adaptive multilingual museum labels |
-| [**baton**](https://github.com/zkmkarlsruhe/baton) | 4 | UDP/WebSocket message relay |
+| [**serial-button-osc**](https://github.com/zkmkarlsruhe/serial-button-osc) | 3 | Physical button → OSC messages |
 | [**thoscy**](https://github.com/zkmkarlsruhe/thoscy) | 3 | Thingsboard to OSC relay |
 | [**wayback-cache-proxy**](https://github.com/zkmkarlsruhe/wayback-cache-proxy) | 1 | Caching Wayback Machine proxy for museum exhibitions |
-| [**serial-button-osc**](https://github.com/zkmkarlsruhe/serial-button-osc) | 3 | Physical button → OSC messages |
 
 ## Sensors & Hardware
 
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**lidar**](https://github.com/zkmkarlsruhe/lidar) | 7 | LIDAR processing tools for spatial detection |
-| [**tfluna**](https://github.com/zkmkarlsruhe/tfluna) | 3 | TF-Luna LIDAR sensor → OSC/UDP/Thingsboard |
-| [**stingyraycontrol9000**](https://github.com/zkmkarlsruhe/stingyraycontrol9000) | - | Cascadable LED driver for art installations |
 | [**SOMA-Junction**](https://github.com/zkmkarlsruhe/SOMA-Junction) | - | Junction box for SOMA lighting |
+| [**stingyraycontrol9000**](https://github.com/zkmkarlsruhe/stingyraycontrol9000) | - | Cascadable LED driver for art installations |
+| [**tfluna**](https://github.com/zkmkarlsruhe/tfluna) | 3 | TF-Luna LIDAR sensor → OSC/UDP/Thingsboard |
 
 ## Audio & Spatialization
 
@@ -83,9 +83,9 @@ ZKM is publicly funded. We believe in **Public Money, Public Code** — software
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [**js-Gerstner-wave**](https://github.com/zkmkarlsruhe/js-Gerstner-wave) | 1 | Interactive Gerstner wave simulation |
 | [**mac-dist-helper**](https://github.com/zkmkarlsruhe/mac-dist-helper) | 10 | macOS app packaging and notarization |
 | [**mac-dist-helper-examples**](https://github.com/zkmkarlsruhe/mac-dist-helper-examples) | 2 | Example projects for mac-dist-helper |
-| [**js-Gerstner-wave**](https://github.com/zkmkarlsruhe/js-Gerstner-wave) | 1 | Interactive Gerstner wave simulation |
 
 ---
 
