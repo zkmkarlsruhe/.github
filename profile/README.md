@@ -54,6 +54,7 @@ ZKM is publicly funded. We believe in **Public Money, Public Code** — software
 | [**museum-label**](https://github.com/zkmkarlsruhe/museum-label) | 2 | Auto-adaptive multilingual museum labels |
 | [**baton**](https://github.com/zkmkarlsruhe/baton) | 4 | UDP/WebSocket message relay |
 | [**thoscy**](https://github.com/zkmkarlsruhe/thoscy) | 3 | Thingsboard to OSC relay |
+| [**wayback-cache-proxy**](https://github.com/zkmkarlsruhe/wayback-cache-proxy) | 1 | Caching Wayback Machine proxy for museum exhibitions |
 | [**serial-button-osc**](https://github.com/zkmkarlsruhe/serial-button-osc) | 3 | Physical button → OSC messages |
 
 ## Sensors & Hardware
